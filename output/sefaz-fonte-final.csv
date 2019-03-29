@@ -1,0 +1,418 @@
+,ano,periodo,grupo,consulta,Fonte de Recurso,Dotação Inicial,Autorizado,Empenhado,Liquidado,Pago,Pago Exercício Anterior,A Pagar Exercício Anterior
+10,2019,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,8879047000.0,8879047000.0,2428777999.55,2205880522.43,2004043830.84,180564446.52,118820120.83
+11,2019,Consolidado,Estado,Fonte de Recurso,01100000 - Recursos de Depósitos Judiciais da LC 151/2015,25080000.0,101781347.78,53654977.28,53648719.65,53648719.65,0.0,0.0
+12,2019,Consolidado,Estado,Fonte de Recurso,01110000 - Acordos - Recofarma,1569000.0,1569000.0,0.0,0.0,0.0,0.0,0.0
+13,2019,Consolidado,Estado,Fonte de Recurso,01120000 - Acordos - Visteon,29000.0,29000.0,0.0,0.0,0.0,0.0,0.0
+14,2019,Consolidado,Estado,Fonte de Recurso,01130000 - Acordos - Manaus Refrigerante,1000.0,1000.0,0.0,0.0,0.0,0.0,0.0
+15,2019,Consolidado,Estado,Fonte de Recurso,01140000 - Acordos - Pepsi-Cola,404000.0,404000.0,0.0,0.0,0.0,0.0,0.0
+16,2019,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,951000.0,951000.0,0.0,0.0,0.0,0.0,0.0
+17,2019,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,413659000.0,413659000.0,101238611.25,83696138.88,63577468.05,9644522.87,962125.51
+18,2019,Consolidado,Estado,Fonte de Recurso,01180000 - RECURSOS DO FECOP,26080000.0,26080000.0,0.0,0.0,0.0,3749238.15,220359.36
+19,2019,Consolidado,Estado,Fonte de Recurso,01190000 - Outras Contribuições Decorrentes de Incentivos Fiscais e Extra-Fiscais,22489000.0,22489000.0,0.0,0.0,0.0,171893.81,0.0
+20,2019,Consolidado,Estado,Fonte de Recurso,01200000 - Contribuição do Desenvolvimento Humano,437000.0,437000.0,0.0,0.0,0.0,0.0,0.0
+21,2019,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,2160000000.0,2160000000.0,565181562.84,428717211.99,341498071.54,96587274.1,12381592.4
+22,2019,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,0.0,0.0,0.0,0.0,0.0,0.0,63793.13
+23,2019,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,20617000.0,20617000.0,828582.37,828582.37,828582.37,0.0,0.0
+24,2019,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,20395000.0,20395000.0,5386025.19,4572622.24,1136045.52,1006038.94,65000.0
+25,2019,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,237907000.0,237907000.0,60046107.37,41552678.19,33930541.61,16974368.55,4811412.85
+26,2019,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1763234000.0,1763234000.0,295854370.49,265491867.5,262390278.82,18168521.85,7761597.36
+27,2019,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,18870000.0,18870000.0,1834158.99,1834143.99,1806859.4,294976.41,0.0
+28,2019,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,12000000.0,12000000.0,9826.83,0.0,0.0,159349.39,439725.32
+29,2019,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,874378000.0,874378000.0,147464974.95,69053395.31,47276469.81,22802280.08,5493535.35
+30,2019,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,99205000.0,99205000.0,0.0,0.0,0.0,1858096.3,2619885.31
+31,2019,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,296128000.0,296128000.0,103177808.03,46772661.04,38255692.61,5644479.03,55564.94
+32,2019,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,0.0,0.0,0.0,0.0,0.0,0.0,1950.0
+33,2019,Consolidado,Estado,Fonte de Recurso,02270000 - Recursos da Contribuição do Salário-Educação,60000000.0,60000000.0,39763237.18,4517931.53,1530145.8,1727049.88,446487.78
+34,2019,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,457729000.0,457729000.0,83270154.71,31291757.41,25629991.79,38291971.44,2492402.87
+35,2019,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,20000.0,20000.0,0.0,0.0,0.0,0.0,0.0
+36,2019,Consolidado,Estado,Fonte de Recurso,02460000 - Complementação do FUNDEB,0.0,200000000.0,151841595.83,8239386.99,4387187.2,0.0,0.0
+37,2019,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,106168000.0,106168000.0,12894288.22,19536.71,19145.99,2153968.28,1820352.83
+38,2019,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,670707000.0,670707000.0,100582778.93,100534243.95,95987327.2,2100777.83,22725.67
+39,2019,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,465830000.0,465830000.0,4101178.13,4044074.31,3323888.6,0.0,0.0
+40,2019,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,317436000.0,317436000.0,25578847.89,0.0,0.0,8052220.25,85136.43
+41,2019,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,261871000.0,261871000.0,103565459.75,17750909.55,15636940.72,12415638.91,2349054.42
+42,2019,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,46920000.0,46920000.0,15151281.39,6522868.67,45889.27,834748.26,254481.35
+43,2019,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,37717000.0,37717000.0,1007122.72,616645.85,470254.55,513947.14,272412.13
+44,2019,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,105000.0,105000.0,0.0,0.0,0.0,0.0,0.0
+45,2019,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,101000.0,101000.0,0.0,0.0,0.0,3452.61,0.0
+46,2019,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,0.0,0.0,0.0,0.0,33153.01,1613422.5
+47,2019,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,0.0,0.0,0.0,0.0,41591.0,912.0
+48,2019,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,4667860.5,780803.52,0.0,0.0,1823549.19,536.43
+49,2019,Consolidado,Estado,Fonte de Recurso,03180000 - RECURSOS DO FECOP,0.0,12095550.0,0.0,0.0,0.0,321806.1,167120.0
+50,2019,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,0.0,0.0,0.0,0.0,55936.0,0.0
+51,2019,Consolidado,Estado,Fonte de Recurso,03460000 - Recursos do FUNDEB,0.0,35000000.0,34433266.08,34433266.08,34433266.08,0.0,0.0
+52,2019,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,867015.26,18228.65,0.0,0.0,0.0,566391.72
+53,2019,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,30606571.63,14356359.84,4426901.66,3713715.99,1669348.09,1721950.21
+54,2019,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,13502986.55,6110378.89,104565.0,62112.0,4853110.04,459662.46
+55,2019,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,3323103.91,2561660.63,3201.0,1941.0,22430.84,15296.48
+56,2019,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,0.0,0.0,0.0,0.0,1930896.6,40800.0
+57,2019,Consolidado,Estado,Fonte de Recurso,04620000 - Fundo Previdenciário - RPPS,0.0,0.0,0.0,0.0,0.0,0.0,258.37
+58,2019,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,13308465.79,1225617.05,0.0,0.0,0.0,0.0
+59,2019,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,47870000.0,11085235.15,7832244.78,7832244.78,1609869.65,0.0
+60,2019,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,9129296.15,4149721.1,3419212.48,2234979.07,612470.56,4835385.28
+61,2019,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,4155589.08,133416.56,131016.56,121340.47,1002005.82,51224.02
+62,2019,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,24000.0,0.0,0.0,0.0,126414.69,16622866.66
+189,2018,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,7887487000.0,9058106020.49,9029965638.13,8904174948.04,8723708928.18,277016594.11,74839798.34
+190,2018,Consolidado,Estado,Fonte de Recurso,01100000 - Recursos de Depósitos Judiciais da LC 151/2015,25080000.0,383426966.8,383426966.8,383426966.8,383426966.8,0.0,0.0
+191,2018,Consolidado,Estado,Fonte de Recurso,01110000 - Acordos - Recofarma,0.0,1861059.31,1159979.31,1159979.31,1159979.31,0.0,0.0
+192,2018,Consolidado,Estado,Fonte de Recurso,01140000 - Acordos - Pepsi-Cola,0.0,7402575.1,7402575.1,7402575.1,7402575.1,0.0,0.0
+193,2018,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,1214000.0,1214000.0,78870.0,78870.0,78870.0,60700.0,0.0
+194,2018,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,349416000.0,389607816.65,368766468.36,359889727.6,354577466.35,16573424.62,475355.46
+195,2018,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",1000000.0,1000000.0,0.0,0.0,0.0,231994.5,0.0
+196,2018,Consolidado,Estado,Fonte de Recurso,01180000 - RECURSOS DO FECOP,0.0,30734423.9,22484712.36,18222036.06,17511695.59,0.0,0.0
+197,2018,Consolidado,Estado,Fonte de Recurso,01190000 - Outras Contribuições Decorrentes de Incentivos Fiscais e Extra-Fiscais,0.0,21160229.82,20992610.19,20850340.31,20694743.97,0.0,0.0
+198,2018,Consolidado,Estado,Fonte de Recurso,01200000 - Contribuição do Desenvolvimento Humano,0.0,5298374.06,5298374.06,3452374.06,3452374.06,0.0,0.0
+199,2018,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,2006400000.0,2092118414.31,2091394397.29,2020190430.95,1951483531.49,133554841.71,10741591.38
+200,2018,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,59565000.0,59565000.0,0.0,0.0,0.0,13144316.72,59798.66
+201,2018,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,24766000.0,24766000.0,19791653.62,15810801.57,15810801.57,727019.27,0.0
+202,2018,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,10450000.0,21580045.24,19738789.34,18886872.74,18715588.96,0.0,65000.0
+203,2018,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,179426000.0,267819305.9,267632330.4,259271129.32,242122156.12,9388104.71,10000.0
+204,2018,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1468245000.0,1753161292.8,1717619361.81,1634643375.21,1624214148.18,168736497.31,1527983.24
+205,2018,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,25935000.0,25935000.0,22024514.79,22024514.79,21729538.38,670219.78,0.0
+206,2018,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,12320000.0,12320000.0,11467145.8,11075429.14,10594593.97,246952.51,0.0
+207,2018,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,696650000.0,846665060.52,838524413.02,810548904.22,800862345.1,52920648.82,170000.0
+208,2018,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,93704000.0,100453678.4,98728477.21,93789765.71,91470500.27,12566391.18,0.0
+209,2018,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,276005000.0,290289708.54,238446152.29,226868480.18,226532217.75,17145803.38,25646.01
+210,2018,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,0.0,0.0,0.0,0.0,0.0,0.0,1950.0
+211,2018,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,5225000.0,5225000.0,0.0,0.0,0.0,568023.62,0.0
+212,2018,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,0.0,0.0,0.0,0.0,254086.51,0.0
+213,2018,Consolidado,Estado,Fonte de Recurso,02270000 - Recursos da Contribuição do Salário-Educação,0.0,58565000.0,52696462.12,43401232.05,42553991.74,0.0,0.0
+214,2018,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,528672000.0,528672000.0,414104475.5,349861014.79,347144757.37,32910500.63,952953.51
+215,2018,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,80000.0,80000.0,1512.0,1512.0,1512.0,12252.48,0.0
+216,2018,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,43000000.0,103590056.37,45435921.92,20695898.68,20691977.08,8192474.28,0.0
+217,2018,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,536018000.0,626931109.31,626771784.38,626764662.16,624641158.66,17577671.75,0.0
+218,2018,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,401728000.0,401728000.0,13418806.87,13418806.87,13418806.87,0.0,0.0
+219,2018,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,221000000.0,433414935.91,335146562.6,333764904.6,325664427.92,33456189.27,0.0
+220,2018,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,390000000.0,390000000.0,118179184.05,97416075.55,89290372.04,6235907.93,0.0
+221,2018,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,40676000.0,40676000.0,23406933.75,21926444.31,21598486.62,13840250.01,125397.32
+222,2018,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,14488000.0,19320371.76,10681088.68,8886128.26,8772765.05,415387.69,0.0
+223,2018,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0
+224,2018,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,25107000.0,25107000.0,0.0,0.0,0.0,3296577.64,4345.11
+225,2018,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,522000.0,522000.0,0.0,0.0,0.0,284602.35,0.0
+226,2018,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,166877583.62,159927595.16,158411909.03,157927853.22,7986288.37,1077521.49
+227,2018,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,1168728.48,539175.98,469354.68,457182.68,294464.7,0.0
+228,2018,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,37000000.0,34937972.19,26824756.21,26470394.12,0.0,0.0
+229,2018,Consolidado,Estado,Fonte de Recurso,03180000 - RECURSOS DO FECOP,0.0,16975942.54,10403909.02,9382412.48,9296282.48,0.0,0.0
+230,2018,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,61966567.34,61248182.8,61077851.2,61077851.2,0.0,0.0
+231,2018,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,8000000.0,7979795.75,7769476.97,7769476.97,1173.9,0.0
+232,2018,Consolidado,Estado,Fonte de Recurso,03300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,0.0,20416487.54,19414604.67,17123085.75,17123085.75,0.0,0.0
+233,2018,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,1412355.25,678033.23,638675.51,638675.51,2827910.67,0.0
+234,2018,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,41645.1,830.0,0.0,0.0,131541.07,0.0
+235,2018,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,28417567.69,22624150.72,21419955.96,20853564.24,663091.65,0.0
+236,2018,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,1110334.26,607657.77,607657.75,607657.75,132279.86,0.0
+237,2018,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,105919291.52,79638226.93,74679284.11,73178175.0,3905115.48,75844.71
+238,2018,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,5763026.22,5763026.22,5763026.22,5763026.22,214525.38,0.0
+239,2018,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,29700000.0,29698063.46,29624821.46,29624821.46,0.0,0.0
+240,2018,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,8000000.0,8000000.0,4015304.86,4015304.86,192082.58,0.0
+241,2018,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,102656956.6,80255289.82,65449791.92,64953168.46,3042667.0,73510.98
+242,2018,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,6700000.0,1970240.26,1387167.56,1380949.22,456225.08,912.0
+243,2018,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,45253348.2,9275405.98,4554911.88,2778227.28,109181.54,0.0
+244,2018,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,4936000.0,4936000.0,4936000.0,4936000.0,6342574.05,0.0
+245,2018,Consolidado,Estado,Fonte de Recurso,04620000 - Fundo Previdenciário - RPPS,0.0,6000000.0,5674574.58,5203784.55,5203526.18,614.5,0.0
+246,2018,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,45946487.86,42407161.99,42407161.99,42407161.99,19694427.69,0.0
+247,2018,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,75834471.67,73322855.84,61545012.73,60032960.97,17540273.39,0.0
+248,2018,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,125022784.94,90052494.86,69685231.04,68013902.54,7814271.13,29995.04
+249,2018,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,74355795.88,58764036.8,26391611.46,26332503.13,4424882.7,13166.63
+250,2018,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,42759.41,37257.1,37257.1,37257.1,0.0,0.0
+251,2018,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,19443087.93,17715476.64,16845733.98,222867.32,635642.01,0.0
+252,2018,Consolidado,Estado,Fonte de Recurso,04970000 - Programa Social de Desenvolvimento Humano,0.0,0.0,0.0,0.0,0.0,114042.73,0.0
+401,2017,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,7411739000.0,8018883517.26,8013430049.98,7815049106.6,7639381197.99,246051931.05,67865513.28
+402,2017,Consolidado,Estado,Fonte de Recurso,01100000 - Recursos de Depósitos Judiciais da LC 151/2015,0.0,57033846.32,57033846.32,57033846.32,57033846.32,0.0,0.0
+403,2017,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,1000000.0,1132605.45,90305.0,29605.0,29605.0,0.0,0.0
+404,2017,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,329072000.0,346493460.56,334753666.34,326949206.0,313832071.85,10354213.61,2496.12
+405,2017,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",1000000.0,1000000.0,979663.39,979663.39,979663.39,5184367.08,233259.5
+406,2017,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,1760000000.0,1910028304.7,1909887496.77,1811671233.72,1758848738.68,140388794.27,19405296.77
+407,2017,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,58000000.0,58000000.0,51236560.86,40924605.04,34322859.5,1723343.86,37988.99
+408,2017,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,41000000.0,41000000.0,15704912.33,15704912.33,14977893.06,770903.71,0.0
+409,2017,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,10550000.0,15253652.03,11735988.34,11735988.34,11735988.34,0.0,79126.4
+410,2017,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,170700000.0,180485077.36,180405771.42,175470631.06,168487715.57,5489239.57,168651.61
+411,2017,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1510000000.0,1803969240.3,1803630456.6,1720928082.38,1613198101.33,36288894.98,1328414.07
+412,2017,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,40540000.0,40540000.0,27085201.8,25825255.66,25700193.27,1548051.43,8425.0
+413,2017,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,11792000.0,11792000.0,10775989.8,9745307.05,9736714.25,97893.69,0.0
+414,2017,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,621378000.0,736636219.63,734576646.07,700665567.16,673808432.76,48318072.84,4352175.78
+415,2017,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,88050000.0,88050000.0,83456330.43,71616489.71,68746658.74,10915647.54,3865.66
+416,2017,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,270225000.0,275335260.41,228639604.39,212776273.31,206795193.43,5791431.77,43193.32
+417,2017,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,5000000.0,5000000.0,1093283.56,501950.0,500000.0,4596279.67,0.0
+418,2017,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,5000000.0,5000000.0,2215157.91,1643134.45,1643134.45,5566339.44,0.0
+419,2017,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,1000000.0,1000000.0,427150.18,173063.67,173063.67,0.0,0.0
+420,2017,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,506405000.0,509320544.92,459976620.24,416621553.21,413484636.49,38023056.2,795544.29
+421,2017,Consolidado,Estado,Fonte de Recurso,02350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,192.64,0.0
+422,2017,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,1000000.0,1340295.79,304268.78,292016.3,292016.3,61093.76,0.0
+423,2017,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,62300000.0,62300000.0,37392653.65,32178841.65,26894906.25,4924224.68,81909.87
+424,2017,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,392263000.0,529637000.0,529270750.39,529270750.39,511693078.64,3097.19,0.0
+425,2017,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,454454000.0,454454000.0,10344009.75,10341071.76,10341071.76,0.0,0.0
+426,2017,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,52000000.0,119101150.37,117486820.19,62485376.49,61303303.38,24246786.2,1667324.72
+427,2017,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,600000000.0,600000000.0,76123276.95,72934077.79,68568118.71,2938904.23,0.0
+428,2017,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,145960000.0,145960000.0,26108407.32,11764983.45,11576629.14,12637630.82,125397.32
+429,2017,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,109096000.0,109096000.0,8644847.28,6387019.0,6059519.0,1254817.74,0.0
+430,2017,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,5000.0,5000.0,0.0,0.0,0.0,0.0,0.0
+431,2017,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,20050000.0,24414187.09,12805307.52,9801511.7,9142639.5,5511623.04,38856.3
+432,2017,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,1000000.0,1000000.0,999651.15,715048.8,715048.8,535326.21,0.0
+433,2017,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,88762669.22,84179330.98,78779706.84,78410631.25,4039120.66,3350897.3
+434,2017,Consolidado,Estado,Fonte de Recurso,03100000 - Recursos de Depósitos Judiciais da LC 151/2015 - Superávit,0.0,1855271.58,1855271.58,1855271.58,1855271.58,0.0,0.0
+435,2017,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,359454.32,349721.65,75121.65,55256.95,144850.0,0.0
+436,2017,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,19776.03,12980.0,10980.0,10980.0,0.0,0.0
+437,2017,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,474278.0,4910.0,4910.0,4910.0,0.0,25592.64
+438,2017,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,0.0,0.0,0.0,0.0,797005.31,1173.9
+439,2017,Consolidado,Estado,Fonte de Recurso,03300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,0.0,6710235.85,0.0,0.0,0.0,0.0,0.0
+440,2017,Consolidado,Estado,Fonte de Recurso,03400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,0.0,104230.08,104230.08,104230.08,104230.08,0.0,0.0
+441,2017,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,48330041.73,46946756.97,43888077.95,43119323.39,11820.0,0.0
+442,2017,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,8635439.24,8590345.94,7992412.11,7976721.04,0.0,1740.0
+443,2017,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,10256417.95,8692025.38,8075562.0,7781954.9,462688.2,0.0
+444,2017,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,4189456.23,4148947.18,4109038.48,4010966.08,0.0,0.0
+445,2017,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,107317688.45,86332182.35,81849596.31,81807975.69,3361142.38,102756.35
+446,2017,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,1200000.0,524995.18,0.0,0.0,541300.0,0.0
+447,2017,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,80000.0,18071.99,18071.99,18071.99,1570000.0,0.0
+448,2017,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,7000000.0,5572553.8,5382151.84,5378884.14,623840.0,0.0
+449,2017,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,58878189.49,37955064.25,32592171.61,32437673.61,2928762.23,69626.12
+450,2017,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,5924520.87,3060095.64,2136634.62,2136634.62,103633.86,18.0
+451,2017,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,10000000.0,8297003.88,8172556.24,8092640.18,4547703.99,0.0
+452,2017,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,6440000.0,6440000.0,6440000.0,97425.95,0.0,0.0
+453,2017,Consolidado,Estado,Fonte de Recurso,04620000 - Fundo Previdenciário - RPPS,0.0,4000000.0,3947237.1,3947237.1,3946622.6,0.0,0.0
+454,2017,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,166600000.0,137335948.05,113164868.33,103804582.18,0.0,0.0
+455,2017,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,70817432.59,62441353.83,48894305.27,40445334.3,2229261.42,0.0
+456,2017,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,104055738.76,39745055.18,30836080.96,30360476.83,5006341.69,51613.87
+457,2017,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,73857843.19,28699744.31,23653031.97,23583563.29,2849285.52,17713.78
+458,2017,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,5238.23,0.0,0.0,0.0,0.0,0.0
+459,2017,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,3130000.0,2373369.29,1730227.28,1730227.28,0.0,0.0
+460,2017,Consolidado,Estado,Fonte de Recurso,04970000 - Programa Social de Desenvolvimento Humano,0.0,720000.0,654667.73,654667.73,540625.0,0.0,0.0
+601,2016,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,8206494000.0,8206494000.0,7509386429.66,7384189696.52,7229435272.25,211562122.68,157248198.23
+602,2016,Consolidado,Estado,Fonte de Recurso,01100000 - Recursos de Depósitos Judiciais da LC 151/2015,0.0,547740902.58,547296304.69,547296304.69,547296304.69,0.0,0.0
+603,2016,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,1000000.0,1000000.0,0.0,0.0,0.0,0.0,0.0
+604,2016,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,315072000.0,315072000.0,307076371.55,298643238.2,293509877.14,14966918.78,220960.17
+605,2016,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",105000000.0,105000000.0,27600713.47,26238894.67,25330929.5,25853016.57,3269743.7
+606,2016,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,1840000000.0,2065048409.03,2040923639.13,1934648118.1,1862177375.86,30229337.22,1143107.77
+607,2016,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,70000000.0,70000000.0,53858731.28,51940520.02,51733205.61,9959368.67,341886.5
+608,2016,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,3450000.0,12903028.9,8661632.2,7890728.49,7890728.49,2713193.0,0.0
+609,2016,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,10600000.0,10617629.96,10566463.74,10566463.74,10566463.74,1970813.66,79126.43
+610,2016,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,213000000.0,213000000.0,204507110.61,201801751.1,197880781.38,2188538.72,200712.8
+611,2016,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1550000000.0,1550000000.0,1410492897.27,1410190463.71,1374323917.99,32112450.06,2795723.51
+612,2016,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,34032000.0,45304370.18,42139466.87,39252777.78,39097216.41,3990240.86,8816.5
+613,2016,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,11792000.0,11792000.0,11773186.07,11319432.26,11225297.38,927665.99,167.32
+614,2016,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,901278000.0,901278000.0,586906636.64,542145018.83,523779277.27,26522964.67,1852614.26
+615,2016,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,90550000.0,90550000.0,87449772.03,75108271.72,73024734.55,6160888.44,0.0
+616,2016,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,233900000.0,250029021.54,201397857.33,194057844.54,193615229.69,10605834.94,71013.9
+617,2016,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,1000000.0,7299055.81,6322705.68,1749635.71,1655628.66,0.0,0.0
+618,2016,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,3000000.0,13758179.19,13756082.55,8175741.92,8158163.92,195031.6,0.0
+619,2016,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,1000000.0,4245000.0,4245000.0,4245000.0,4245000.0,0.0,0.0
+620,2016,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,501240000.0,551558926.14,535004558.35,482098422.39,474628493.04,41719551.4,275695.24
+621,2016,Consolidado,Estado,Fonte de Recurso,02350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,4299.8,6772.78
+622,2016,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,1000000.0,1000000.0,432737.14,370473.78,370473.78,141640.01,0.0
+623,2016,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,125000000.0,125000000.0,51745453.85,40715071.33,40510236.8,7211224.52,20039.01
+624,2016,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,389171000.0,574711247.38,572536116.31,572536116.31,572534160.19,12770.24,1141.07
+625,2016,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,401800000.0,401800000.0,11078886.92,11078886.92,11078886.92,0.0,0.0
+626,2016,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,212000000.0,313041208.8,133442796.83,102593435.33,96154279.98,10621.93,0.0
+627,2016,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,372000000.0,372000000.0,46448830.26,42952334.42,42832334.26,4150309.17,0.0
+628,2016,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,299630000.0,299630000.0,86244641.0,72476952.03,72180137.97,2903859.63,127255.82
+629,2016,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,160150000.0,160150000.0,32959027.59,31621535.58,31609518.58,349438.59,0.0
+630,2016,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,15000.0,15000.0,0.0,0.0,0.0,0.0,0.0
+631,2016,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,60000.0,18376678.0,14634389.99,10946305.43,8827336.24,0.0,2337.0
+632,2016,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,1000000.0,1629360.44,1376010.08,806595.54,797101.86,0.0,0.0
+633,2016,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,39956858.25,30117813.69,26163931.86,25988518.21,12384246.65,4147932.27
+634,2016,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,314150.96,153815.68,8965.68,8965.68,6669.0,0.0
+635,2016,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,447120.88,181808.64,181808.64,181808.64,257961.23,25592.64
+636,2016,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,5247793.91,5149556.03,4360363.42,4181168.11,41909.42,4628.59
+637,2016,Consolidado,Estado,Fonte de Recurso,03400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,0.0,0.0,0.0,0.0,0.0,0.0,704283.49
+638,2016,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,625514.16,3474.0,3474.0,3474.0,137650.6,11820.0
+639,2016,Consolidado,Estado,Fonte de Recurso,03460000 - Recursos do FUNDEB,0.0,0.0,0.0,0.0,0.0,691880.7,0.0
+640,2016,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,163860.99,69000.0,69000.0,69000.0,78939.64,1740.0
+641,2016,Consolidado,Estado,Fonte de Recurso,03550000 - Recursos de Transferência Financeira LC 87/96,0.0,42710.11,42710.11,42710.11,42710.11,77671.81,0.0
+642,2016,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,24781615.12,22955645.16,22534040.66,22492956.96,151191.19,29835.16
+643,2016,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,3781947.16,2961260.23,2940932.29,2940932.29,0.0,0.0
+644,2016,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,101924821.17,94542530.23,90325987.03,90043518.16,3398215.38,31900.64
+645,2016,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,6450000.0,6290522.2,5749222.2,5749222.2,0.0,0.0
+646,2016,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,1570000.0,1570000.0,0.0,0.0,697639.73,0.0
+647,2016,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,11255000.0,11229355.76,10605515.76,10605515.76,500000.0,0.0
+648,2016,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,50000000.0,34826552.39,31387594.35,30902428.37,10834809.81,13915.26
+649,2016,Consolidado,Estado,Fonte de Recurso,04350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,0.0,16965.75
+650,2016,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,4125148.91,1348366.17,1169657.22,1169657.22,117338.58,18.0
+651,2016,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,7744154.43,6000537.32,1426871.89,1426871.89,57.24,0.0
+652,2016,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,9044325.44,9044325.44,9044325.44,9044325.44,0.0,0.0
+653,2016,Consolidado,Estado,Fonte de Recurso,04620000 - Fundo Previdenciário - RPPS,0.0,996835.56,996835.56,996835.56,996835.56,0.0,0.0
+654,2016,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,80891630.65,67928978.74,66074630.03,65536345.56,12535504.27,0.0
+655,2016,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,128120493.37,91575926.18,87388222.22,85535130.15,8410951.77,589828.71
+656,2016,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,55999483.85,49184848.37,46113465.12,46092988.29,4094782.31,25169.38
+657,2016,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,4786.41,0.0,0.0,0.0,0.0,0.0
+658,2016,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,822624.9,821730.0,821730.0,821686.2,0.0,0.0
+795,2015,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,8015728000.0,8015728000.0,7677180822.99,7623928539.15,7397369998.16,144588654.23,108124617.56
+796,2015,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,1250000.0,1250000.0,0.0,0.0,0.0,16263.38,0.0
+797,2015,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,280000000.0,280000000.0,279950061.74,275885851.29,264297040.52,12924174.12,2211534.85
+798,2015,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",108000000.0,108000000.0,84445092.63,63783466.83,50039221.46,41514962.71,621530.55
+799,2015,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,1744000000.0,1744000000.0,1740395006.2,1715156761.04,1704981336.78,93524427.67,1377330.33
+800,2015,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,58000000.0,60500000.0,59285435.06,48527035.9,47415890.38,10185627.76,71057.34
+801,2015,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,10000.0,5473758.73,5464535.95,2751342.95,2751342.95,0.0,0.0
+802,2015,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,180550000.0,180550000.0,116915209.11,116652426.62,114856271.7,2763906.35,9058.12
+803,2015,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,133000000.0,133000000.0,106673984.96,106526055.33,103367017.15,14630779.93,96665.97
+804,2015,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1381000000.0,1381000000.0,1364848022.67,1364848022.67,1335407499.5,32130806.06,2933170.9
+805,2015,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,28110000.0,48381538.56,48123965.56,47509638.31,43585800.94,6179615.21,20066.0
+806,2015,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,11792000.0,11792000.0,11781251.88,11293969.16,10865306.59,314236.72,15473.82
+807,2015,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,883000000.0,883000000.0,848311846.54,844927441.38,823170500.13,53133885.31,3971386.63
+808,2015,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,91000000.0,91000000.0,83259238.13,82354557.43,77377381.69,7462693.94,563403.12
+809,2015,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,216245000.0,235679898.14,182609110.18,171051541.37,169926070.82,5768083.16,121715.65
+810,2015,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,1000000.0,1000000.0,0.0,0.0,0.0,1605911.0,0.0
+811,2015,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,1000000.0,8861145.45,8298877.55,8136298.39,8097234.91,0.0,0.0
+812,2015,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,1000000.0,3500000.0,3202288.2,3202288.2,3202288.2,0.0,0.0
+813,2015,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,477720000.0,510528970.56,493395736.11,442809814.05,437934701.58,40241188.59,710587.15
+814,2015,Consolidado,Estado,Fonte de Recurso,02350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,882.94,16893.17
+815,2015,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,2100000.0,2100000.0,918680.61,678256.2,676936.2,98285.69,0.0
+816,2015,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,109000000.0,109000000.0,51272390.1,38563368.6,38164850.29,7633457.46,0.0
+817,2015,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,378700000.0,458849273.3,458032067.87,458032067.87,458018156.56,0.0,0.0
+818,2015,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,338221000.0,338221000.0,7301131.88,7301131.88,7301131.88,904.36,0.0
+819,2015,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,427388000.0,427388000.0,36128258.46,36128258.46,36128258.46,12940543.08,10621.93
+820,2015,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,262000000.0,262000000.0,154855700.95,150130177.27,150130177.27,44976340.04,1134596.6
+821,2015,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,264605000.0,264605000.0,59956053.22,56631618.25,55857631.35,23326815.06,272200.91
+822,2015,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,62540000.0,62540000.0,26391404.8,26128845.48,25938760.55,8845585.47,0.0
+823,2015,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,15000.0,15000.0,0.0,0.0,0.0,0.0,0.0
+824,2015,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,1050000.0,1050000.0,7110.0,7110.0,7110.0,0.0,2337.0
+825,2015,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,0.0,1004010.39,952322.82,952322.82,952322.82,0.0,0.0
+826,2015,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,135812427.85,127403030.77,115052922.17,113805321.9,4320255.19,3004871.36
+827,2015,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,736181.17,210782.93,204113.69,204113.69,9420.0,0.0
+828,2015,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,203.6,203.6,203.6,203.6,2543577.82,0.0
+829,2015,Consolidado,Estado,Fonte de Recurso,"03170000 - Contribuição para Infraestrutura Básica, Econômica e Social",0.0,206026.67,101626.65,54786.65,54786.65,36000.0,0.0
+830,2015,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,7387066.62,6966680.3,6966680.3,6965167.16,1098692.09,286307.22
+831,2015,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,1980941.1,1979672.64,1953488.64,1929291.22,33587.47,4628.59
+832,2015,Consolidado,Estado,Fonte de Recurso,03300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,0.0,3749058.92,3749058.92,3749058.92,3749058.92,0.0,0.0
+833,2015,Consolidado,Estado,Fonte de Recurso,03400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,0.0,2000000.0,1976599.79,1976599.79,1976599.79,327230.04,704283.49
+834,2015,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,26168960.06,24086285.14,23948634.54,23948634.54,4037616.1,11820.0
+835,2015,Consolidado,Estado,Fonte de Recurso,03460000 - Recursos do FUNDEB,0.0,8587000.03,8586812.95,8528350.2,7894932.25,0.0,125.51
+836,2015,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,1075322.75,464544.72,410839.45,360478.8,3697586.35,6720.0
+837,2015,Consolidado,Estado,Fonte de Recurso,03550000 - Recursos de Transferência Financeira LC 87/96,0.0,475995.2,461333.35,452192.2,375382.53,171293.51,0.0
+838,2015,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,18899061.09,12690295.35,12531368.4,12393987.05,4524679.94,67993.46
+839,2015,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,1752454.7,1742506.53,1740906.53,1740906.53,0.0,0.0
+840,2015,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,80305758.6,52709175.21,48673281.81,48570858.59,2984688.6,33765.04
+841,2015,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,0.0,0.0,0.0,0.0,26388.0,0.0
+842,2015,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,1797509.55,725392.73,582882.32,25494.0,0.0,0.0
+843,2015,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,3500000.0,3397533.54,3397533.54,2897533.54,770000.0,0.0
+844,2015,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,109000000.0,76182763.05,63566903.91,62702246.12,6040823.85,37113.63
+845,2015,Consolidado,Estado,Fonte de Recurso,04350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,244.0,41107.55
+846,2015,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,2792280.48,891325.88,760005.79,760005.79,257857.43,18.0
+847,2015,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,8000000.0,3907032.17,3903129.78,3903129.78,1243329.71,25323.86
+848,2015,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,12981056.75,12981056.75,12981056.75,12981056.75,0.0,0.0
+849,2015,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,43535524.35,43511934.13,43511934.13,43511934.13,0.0,0.0
+850,2015,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,138557404.51,75819767.89,48464330.83,48414707.93,46557373.21,23019.92
+851,2015,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,158192404.21,90106904.79,80675504.71,77109703.79,12503999.67,1596580.33
+852,2015,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,35188364.62,16884453.59,12718384.39,12670671.99,1921480.32,789581.88
+853,2015,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,4371.01,0.0,0.0,0.0,0.0,0.0
+854,2015,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,0.0,0.0,0.0,0.0,172117.99,0.0
+855,2015,Consolidado,Estado,Fonte de Recurso,04970000 - Programa Social de Desenvolvimento Humano,0.0,0.0,0.0,0.0,0.0,4747.54,0.0
+998,2014,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,7199360000.0,7795434822.4,7733997177.58,7627735322.02,7541512615.15,232162397.95,89359150.39
+999,2014,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,420000.0,583704.56,128652.4,112389.02,112389.02,0.0,0.0
+1000,2014,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,255000000.0,271399646.42,270212095.34,253003884.42,249544793.83,13811074.54,195380.65
+1001,2014,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",85000000.0,111202112.2,110768709.87,82418450.21,63904769.16,25738525.03,382222.45
+1002,2014,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,1600000000.0,1620836150.23,1617427636.2,1581612144.35,1511283589.36,77224469.53,1943203.61
+1003,2014,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,54000000.0,57000000.0,56840814.49,48336475.19,46096335.23,10489062.45,425851.79
+1004,2014,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,100000.0,579636.1,494025.18,494025.18,494025.18,0.0,0.0
+1005,2014,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,11100000.0,13349977.5,12377258.89,9012417.84,9012417.81,705115.62,22904.74
+1006,2014,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,296000000.0,301046470.36,277068952.98,254017094.83,250825077.2,15068101.03,160988.68
+1007,2014,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1136000000.0,1306410435.29,1306301210.12,1289212883.38,1272444756.37,100061122.38,6618247.23
+1008,2014,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,25520000.0,31826386.61,31771045.09,30320505.17,25143151.52,5233488.44,20165.6
+1009,2014,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,11792000.0,11792000.0,11779154.2,11509576.62,11343087.39,399089.1,16290.09
+1010,2014,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,793000000.0,850427871.52,842806692.74,753345839.45,748773751.49,23559509.86,1906556.53
+1011,2014,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,85000000.0,85079398.25,85075262.1,69074515.79,65531864.53,11734784.45,33987.19
+1012,2014,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,210140000.0,212006218.68,166855533.86,161766113.32,160072436.08,5885427.06,154018.22
+1013,2014,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,2500000.0,4840662.74,4840662.74,3225651.74,3225651.74,0.0,0.0
+1014,2014,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,3000000.0,3000000.0,0.0,0.0,0.0,903570.04,0.0
+1015,2014,Consolidado,Estado,Fonte de Recurso,02120000 - Acordos - Visteon,20000.0,20000.0,0.0,0.0,0.0,0.0,0.0
+1016,2014,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,1500000.0,1500000.0,0.0,0.0,0.0,0.0,0.0
+1017,2014,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,463115000.0,490758891.85,464361191.21,420012746.87,412464073.62,46201049.18,1014523.37
+1018,2014,Consolidado,Estado,Fonte de Recurso,02350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,27897.56,45611.3
+1019,2014,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,2100000.0,2100000.0,1205431.58,1001187.44,1001187.44,50633.32,0.0
+1020,2014,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,92000000.0,92000000.0,64895974.91,59943480.51,57225885.64,33745031.84,0.0
+1021,2014,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,298000000.0,403276828.6,402934920.31,402934920.31,402934920.31,0.0,0.0
+1022,2014,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,234000000.0,234000000.0,5273149.13,5273149.13,5272244.77,0.0,0.0
+1023,2014,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,460000000.0,460000000.0,421080598.87,402955197.12,400845835.02,23657291.46,4566.95
+1024,2014,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,904400000.0,904400000.0,620741008.32,564305278.96,552402447.01,0.0,0.0
+1025,2014,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,337920000.0,337920000.0,187885625.51,148277791.79,147229558.99,7166882.69,699681.35
+1026,2014,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,36410000.0,76121505.33,63166827.09,46023497.0,44698002.01,3649912.4,306083.1
+1027,2014,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,5000.0,522000.0,511286.6,511286.6,511286.6,358.9,0.0
+1028,2014,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,3070000.0,3070000.0,3137.0,1992.0,0.0,0.0,0.0
+1029,2014,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,0.0,771058.2,715858.2,715858.2,715858.2,0.0,0.0
+1030,2014,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,116302814.52,112465682.38,108388163.65,105902530.59,6206539.71,1150712.5
+1031,2014,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,3068727.57,1582464.92,34330.67,34330.67,2111866.7,0.0
+1032,2014,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,17037334.64,12948088.98,12675051.12,12614631.1,7526892.8,2232984.6
+1033,2014,Consolidado,Estado,Fonte de Recurso,"03170000 - Contribuição para Infraestrutura Básica, Econômica e Social",0.0,124388.85,69602.2,33602.2,33602.2,12423122.8,0.0
+1034,2014,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,7147284.3,5974568.09,4728094.8,4705658.16,13181820.13,161048.31
+1035,2014,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,1013104.25,1012333.09,981871.95,980527.79,607406.88,7360.76
+1036,2014,Consolidado,Estado,Fonte de Recurso,03400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,0.0,8899650.1,8625467.61,8261764.87,7547251.26,906679.0,0.0
+1037,2014,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,13526646.9,12255610.69,8115618.32,8035199.66,600483.93,28885.0
+1038,2014,Consolidado,Estado,Fonte de Recurso,03460000 - Recursos do FUNDEB,0.0,0.0,0.0,0.0,0.0,0.0,125.51
+1039,2014,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,21244865.52,20488902.39,16910089.05,16608615.05,28718.31,5172.5
+1040,2014,Consolidado,Estado,Fonte de Recurso,03550000 - Recursos de Transferência Financeira LC 87/96,0.0,2487172.12,2364703.67,1893166.32,1890493.32,189700.0,0.0
+1041,2014,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,84919267.18,83507243.71,78950734.32,78950366.82,11873302.12,172011.58
+1042,2014,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,5800876.11,5800876.11,5800876.11,5800876.11,2898413.73,0.0
+1043,2014,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,35710978.21,19166466.19,17038159.09,16080190.47,3888254.35,27162.47
+1044,2014,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,8821632.56,8815075.48,8788687.48,8788687.48,8634.1,0.0
+1045,2014,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,7554173.81,7554173.81,7554173.81,7554173.81,769261.07,0.0
+1046,2014,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,4456092.0,3840000.0,3840000.0,3070000.0,173132.74,0.0
+1047,2014,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,120000000.0,81466895.51,74241551.65,73450097.23,10553296.76,72936.6
+1048,2014,Consolidado,Estado,Fonte de Recurso,04350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,114333.43,51480.09
+1049,2014,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,1500000.0,1155654.07,799502.86,791152.86,165421.98,0.0
+1050,2014,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,23654071.54,20894541.42,20533025.68,19649898.33,6079331.48,25266.62
+1051,2014,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,9985719.86,9985719.86,9985719.86,9985719.86,0.0,0.0
+1052,2014,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,1234155.52,1234155.52,1234155.52,1234155.52,58286183.4,0.0
+1053,2014,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,307823411.28,250783235.25,207134721.71,193596706.44,2216308.16,0.0
+1054,2014,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,193902880.08,119692957.37,100278715.33,99396828.66,42915646.31,2684318.17
+1055,2014,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,16664915.81,11581146.53,8240549.67,8236373.17,5065189.61,1007058.39
+1056,2014,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,276211.61,195642.51,195642.51,195642.51,514302.1,0.0
+1057,2014,Consolidado,Estado,Fonte de Recurso,04960000 - Doações de Pessoas ou Instituições Privadas Nacionais,0.0,195024.21,172117.99,0.0,0.0,0.0,0.0
+1058,2014,Consolidado,Estado,Fonte de Recurso,04970000 - Programa Social de Desenvolvimento Humano,0.0,200000.0,141111.1,140687.1,136095.56,0.0,0.0
+1201,2013,Consolidado,Estado,Fonte de Recurso,01000000 - Recursos Ordinários,6697265000.0,7573054684.74,7555976203.7,7358822391.43,7288482616.27,185165094.51,76941325.18
+1202,2013,Consolidado,Estado,Fonte de Recurso,01150000 - Alienação de Bens,500000.0,500000.0,0.0,0.0,0.0,0.0,0.0
+1203,2013,Consolidado,Estado,Fonte de Recurso,01160000 - Contribuição para o Desenvolvimento do Ensino Superior,225000000.0,225000000.0,209448341.78,195825576.11,190865893.97,7911956.99,821476.04
+1204,2013,Consolidado,Estado,Fonte de Recurso,"01170000 - Contribuição para Infraestrutura Básica, Econômica e Social",75000000.0,124564272.69,124456946.45,89672426.97,85320282.93,3324301.68,652316.66
+1205,2013,Consolidado,Estado,Fonte de Recurso,01210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,1560000000.0,1560000000.0,1481538564.96,1400117872.71,1388573198.27,44475688.75,1532131.17
+1206,2013,Consolidado,Estado,Fonte de Recurso,01270000 - Cotaparte da Contribuição do Salário-Educação,45000000.0,49000000.0,48760308.78,38863467.81,36019353.64,16915842.03,66527.14
+1207,2013,Consolidado,Estado,Fonte de Recurso,01300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,37000000.0,37000000.0,244031.46,244031.46,244031.46,0.0,0.0
+1208,2013,Consolidado,Estado,Fonte de Recurso,01400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,10200000.0,10200000.0,7695834.21,6907776.28,6472330.33,911589.51,22904.74
+1209,2013,Consolidado,Estado,Fonte de Recurso,01450000 - Recursos do Royalties sobre o Petróleo,253000000.0,289536180.17,282580098.33,269738413.86,265803164.05,14886564.72,149327.39
+1210,2013,Consolidado,Estado,Fonte de Recurso,01460000 - Recursos do FUNDEB,1006000000.0,1240559036.66,1240394207.13,1173576810.22,1136674634.39,137883509.72,4646462.85
+1211,2013,Consolidado,Estado,Fonte de Recurso,01500000 - Outras Transferências de Recursos Federais,38260000.0,38260000.0,18098118.73,12401217.76,12173791.7,1698337.96,25812.86
+1212,2013,Consolidado,Estado,Fonte de Recurso,01550000 - Recursos de Transferência Financeira LC 87/96,0.0,2776921.96,2776594.41,1992305.32,1975885.62,1777697.11,17630.09
+1213,2013,Consolidado,Estado,Fonte de Recurso,01600000 - Recursos do FTI,722000000.0,750696653.75,728472589.4,697497814.49,690122623.19,68764362.37,1609314.21
+1214,2013,Consolidado,Estado,Fonte de Recurso,01700000 - Recursos do FMPES,75000000.0,80862747.58,80621833.41,67304923.62,67185287.62,6421781.75,33987.19
+1215,2013,Consolidado,Estado,Fonte de Recurso,02010000 - Recursos Diretamente Arrecadados,185355000.0,199886247.16,175935405.98,169958494.53,168239629.93,6707925.44,212356.27
+1216,2013,Consolidado,Estado,Fonte de Recurso,02100000 - Acordos - Pepsi-Cola,2500000.0,2500000.0,315000.0,315000.0,315000.0,0.0,0.0
+1217,2013,Consolidado,Estado,Fonte de Recurso,02110000 - Acordos - Recofarma,3000000.0,3000000.0,2279715.89,1411137.17,1031137.17,0.0,0.0
+1218,2013,Consolidado,Estado,Fonte de Recurso,02120000 - Acordos - Visteon,20000.0,20000.0,0.0,0.0,0.0,0.0,0.0
+1219,2013,Consolidado,Estado,Fonte de Recurso,02200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,1500000.0,2002180.0,2002180.0,1974500.0,1974500.0,0.0,0.0
+1220,2013,Consolidado,Estado,Fonte de Recurso,02300000 - Recursos do Sistema Único de Saúde - SUS,440100000.0,440100000.0,393821209.37,347764490.01,335519392.43,25345136.99,707456.48
+1221,2013,Consolidado,Estado,Fonte de Recurso,02350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,8389751.64,73508.86
+1222,2013,Consolidado,Estado,Fonte de Recurso,02400000 - Transferências do FNAS,300000.0,1460380.83,1136836.64,1065360.66,1062194.86,0.0,0.0
+1223,2013,Consolidado,Estado,Fonte de Recurso,02500000 - Transferências do FNDE,38000000.0,90903305.56,86636858.56,47470822.75,44198238.06,3989765.42,1678167.6
+1224,2013,Consolidado,Estado,Fonte de Recurso,02610000 - Fundo Financeiro - RPPS,310240000.0,340128148.66,339882303.02,339882303.02,339882303.02,12272.98,0.0
+1225,2013,Consolidado,Estado,Fonte de Recurso,02620000 - Fundo Previdenciário - RPPS,241600000.0,241600000.0,3986335.79,3986335.79,3986335.79,0.0,0.0
+1226,2013,Consolidado,Estado,Fonte de Recurso,02710000 - Operações de Crédito Internas,398000000.0,481634641.96,481634641.96,466905876.45,457977350.5,106148388.8,4566.95
+1227,2013,Consolidado,Estado,Fonte de Recurso,02750000 - Operações de Crédito Externas,334000000.0,480382061.07,206363179.75,206360554.15,206360554.15,2630196.72,0.0
+1228,2013,Consolidado,Estado,Fonte de Recurso,02800000 - Convênios,253620000.0,253620000.0,64911735.08,58460544.92,56500442.96,11926130.23,682573.07
+1229,2013,Consolidado,Estado,Fonte de Recurso,02850000 - Outras Fontes,27558000.0,49122377.61,39763147.62,38245146.37,36577278.96,10944528.92,950796.08
+1230,2013,Consolidado,Estado,Fonte de Recurso,02950000 - Transferências de Entidades Internacionais,5010000.0,5010000.0,358.9,0.0,0.0,0.0,0.0
+1231,2013,Consolidado,Estado,Fonte de Recurso,02960000 - Doações de Pessoas ou Instituições Privadas Nacionais,70000.0,70000.0,0.0,0.0,0.0,0.0,0.0
+1232,2013,Consolidado,Estado,Fonte de Recurso,02970000 - Doação p/ Programa Social de Desenv Humano,0.0,0.0,0.0,0.0,0.0,83753.41,0.0
+1233,2013,Consolidado,Estado,Fonte de Recurso,03000000 - Recursos Ordinários,0.0,74814049.88,58962113.62,52040450.52,50520340.16,1915966.1,1018425.58
+1234,2013,Consolidado,Estado,Fonte de Recurso,03150000 - Alienação de Bens,0.0,18946069.42,17970351.48,15701700.14,15481474.35,0.0,0.0
+1235,2013,Consolidado,Estado,Fonte de Recurso,03160000 - Contribuição para o Desenvolvimento do Ensino Superior,0.0,48083686.83,21507579.86,3088330.54,3049881.74,1278275.32,0.0
+1236,2013,Consolidado,Estado,Fonte de Recurso,"03170000 - Contribuição para Infraestrutura Básica, Econômica e Social",0.0,60530120.03,49109085.46,13665473.03,13248778.43,0.0,0.0
+1237,2013,Consolidado,Estado,Fonte de Recurso,03210000 - Cotaparte do Fundo de Participação dos Estados e do Distrito Federal,0.0,98348997.91,94284911.78,82612912.92,80126863.0,765452.99,4266.49
+1238,2013,Consolidado,Estado,Fonte de Recurso,03270000 - Cotaparte da Contribuição do Salário-Educação,0.0,9953193.82,9917672.16,9690268.22,9327511.0,2495203.51,5927.83
+1239,2013,Consolidado,Estado,Fonte de Recurso,03300000 - Cotaparte da Contribuição de Intervenção do Domínio Econômico,0.0,13550000.0,13414148.94,13414148.94,13414148.94,4642739.0,0.0
+1240,2013,Consolidado,Estado,Fonte de Recurso,03400000 - Indenização pela Utilização de Recursos Hídricos e Exploração de Recursos Minerais,0.0,9011643.47,6452793.77,5482213.44,5406474.13,0.0,0.0
+1241,2013,Consolidado,Estado,Fonte de Recurso,03450000 - Recursos do Royalties sobre o Petróleo,0.0,5450067.29,2663868.26,1743352.68,1739496.24,1145886.12,17065.0
+1242,2013,Consolidado,Estado,Fonte de Recurso,03460000 - Recursos do FUNDEB,0.0,2601845.99,2601845.99,2601845.99,2601845.99,227388.31,125.51
+1243,2013,Consolidado,Estado,Fonte de Recurso,03500000 - Outras Transferências de Recursos Federais,0.0,3949409.82,3407141.14,3307141.14,3278510.62,16466.0,5260.29
+1244,2013,Consolidado,Estado,Fonte de Recurso,03550000 - Recursos de Transferência Financeira LC 87/96,0.0,904537.79,793012.54,579997.0,579997.0,0.0,0.0
+1245,2013,Consolidado,Estado,Fonte de Recurso,03600000 - Recursos do FTI,0.0,87455024.35,82083336.01,75361676.46,68960045.81,1580393.69,93296.12
+1246,2013,Consolidado,Estado,Fonte de Recurso,03700000 - Recursos do FMPES,0.0,17966635.0,15971837.54,12926401.99,12926401.99,232799.6,0.0
+1247,2013,Consolidado,Estado,Fonte de Recurso,04010000 - Recursos Diretamente Arrecadados,0.0,60493053.24,56092301.37,52675250.11,51254006.88,1937184.55,705.84
+1248,2013,Consolidado,Estado,Fonte de Recurso,04100000 - Acordos - Pepsi-Cola,0.0,8016751.84,8016751.84,8016751.84,8008117.74,326298.67,0.0
+1249,2013,Consolidado,Estado,Fonte de Recurso,04110000 - Acordos - Recofarma,0.0,5566289.46,4954538.64,3558651.19,3390600.52,212486.68,0.0
+1250,2013,Consolidado,Estado,Fonte de Recurso,04200000 - Transferências para Investimento em Desenvolvimento Social - AMBEV,0.0,3364420.44,3364420.44,3087347.54,3087347.54,229535.05,0.0
+1251,2013,Consolidado,Estado,Fonte de Recurso,04300000 - Recursos do Sistema Único de Saúde - SUS,0.0,94913535.74,48395148.98,35806747.22,33961442.24,4666844.2,36993.17
+1252,2013,Consolidado,Estado,Fonte de Recurso,04350000 - Transferência do SUS,0.0,0.0,0.0,0.0,0.0,3369090.26,165813.52
+1253,2013,Consolidado,Estado,Fonte de Recurso,04400000 - Transferências do FNAS,0.0,1433830.67,1009617.9,773602.2,751299.2,7733.01,0.0
+1254,2013,Consolidado,Estado,Fonte de Recurso,04500000 - Transferências do FNDE,0.0,29012110.28,19749582.55,12676949.46,12676949.46,1054636.0,25266.62
+1255,2013,Consolidado,Estado,Fonte de Recurso,04610000 - Fundo Financeiro - RPPS,0.0,10520254.25,10085740.24,10085740.24,10085740.24,0.0,0.0
+1256,2013,Consolidado,Estado,Fonte de Recurso,04710000 - Operações de Crédito Internas,0.0,233661648.28,232724792.3,149482140.1,148838591.06,0.0,0.0
+1257,2013,Consolidado,Estado,Fonte de Recurso,04750000 - Operações de Crédito Externas,0.0,48680842.33,46674441.49,44324441.49,44324441.49,0.0,0.0
+1258,2013,Consolidado,Estado,Fonte de Recurso,04800000 - Convênios,0.0,230771655.25,149145856.76,98488379.43,97513143.18,11182769.02,1195656.45
+1259,2013,Consolidado,Estado,Fonte de Recurso,04850000 - Outras Fontes,0.0,40747945.46,28794569.0,22769336.04,22013163.02,4071974.79,7097.0
+1260,2013,Consolidado,Estado,Fonte de Recurso,04950000 - Transferências de Entidades Internacionais,0.0,1703553.47,1645883.02,1131578.67,1131578.67,4064.96,0.0

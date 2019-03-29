@@ -1,6 +1,13 @@
 # raspagem-sefaz
 Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 
+### Descrição do Repositório
+
+* Análise.html : notebook salvo em html
+* Analise.ipynb : jupyter notebook
+* scraping-sefaz.py : script de Raspagem
+* output : pasta com arquivos e gráficos de saída
+
 ## Preparação de ambiente
 
 ### Ubuntu
@@ -65,5 +72,22 @@ Abra o terminal cnforme descrito na seção 2 e digite:
 #### 5. Baixe a engine do selenium
 Encontre a engine do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html) e realize o download
 
-#### 4. Adicione a engine ao seu path
+#### 6. Adicione a engine ao seu path
 Adicione o executável da engine às variáveis do ambiente do seu sistema de maneira análoga à descrita na seção 2.
+
+## Executando o projeto
+
+#### 1. Rodar o arquivo scraping-sefaz.py
+
+Abrir o terminal na pasta do projeto e executar:
+```python3 scraping-sefaz.py```
+
+#### 2. Análise
+
+Abrir o jupyter
+
+```jupyter notebook```
+
+Abrir o arquivo Análise.ipynb
+
+Para rodar as células, SHIFT + ENTER
