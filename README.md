@@ -25,13 +25,13 @@ Acesse [python.org](https://www.python.org/downloads/windows/) e baixe a opção
 Abra o terminal clicando em Iniciar -> Digite cmd
 Quando abrir, digite python e dê enter. Se estiver tudo ok, deve aparecer:
 
-``` Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) MSC v.1914 64 bit (AMD64) on win32
+" Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) MSC v.1914 64 bit (AMD64) on win32
 
-Type "help", "copyright", "credits" or "license" for more information. ```
+Type "help", "copyright", "credits" or "license" for more information. "
 
 Se aparecer
 
-```Python is not recognized as an internal or external command, operable program or batch file.```
+"Python is not recognized as an internal or external command, operable program or batch file."
 
 Então você deve adicionar o python às suas variáveis.
 
