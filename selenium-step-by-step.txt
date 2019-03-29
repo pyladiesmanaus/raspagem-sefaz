@@ -1,4 +1,4 @@
 1. Instalar python
-2. sudo pip3 install selenium pandas
+2. sudo pip3 install selenium pandas seaborn jupyter matplotlib
 3. https://selenium-python.readthedocs.io/installation.html --> baixar o driver do seu navegador
 4. copiar o executável para /usr/bin
