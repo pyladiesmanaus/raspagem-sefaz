@@ -1,2 +1,57 @@
 # raspagem-sefaz
 Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
+
+##Preparação de ambiente
+
+### Ubuntu
+1. Instalar python 3
+```sudo apt install python3 python3-pip```
+2. Instalar bibliotecas
+```sudo pip3 install selenium pandas seaborn jupyter matplotlib```
+3. Baixar o driver do selenium para seu navegador em https://selenium-python.readthedocs.io/installation.html
+4. copiar o executável para /usr/bin
+
+### Windows
+
+#### 1. Instalar python 
+
+Acesse o site https://www.python.org/downloads/windows/ e baixe a opção "Latest Python 3 Release - Python 3.7.3". 
+#### 2. Teste sua instalação
+Abra o terminal clicando em Iniciar -> Digite cmd 
+Quando abrir, digite python e dê enter. Se estiver tudo ok, deve aparecer:
+```Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.```
+Se aparecer 
+```Python is not recognized as an internal or external command, operable program or batch file.```
+Então você deve adicionar o python às suas variáveis. 
+
+##### Etapas para adicionar um caminho na variável ambiental PATH do sistema
+
+     1. No sistema Windows, clique com o botão direito em Meu Computador ou Este PC.
+     2. Selecione Propriedades.
+     3. Selecione configurações avançadas do sistema.
+     4. Clique no botão Variáveis de Ambiente.
+     5. Em Variáveis do sistema, selecione PATH.
+     6. Clique no botão Editar.
+     7. Clique no botão Novo
+     8. Cole o caminho do arquivo python.exe -- C:\Python37 e C:\Python37/Scripts, separados por ```;```.
+     9.Clique OK.
+#### 3. Instalar pip
+Para isto, baixe o arquivo em https://bootstrap.pypa.io/get-pip.py
+
+Abra o terminal clicando com o botão direito no espaço vazio da pasta em que o arquivo está, e depois em "Abrir Terminal".
+
+Em seguida, execute 
+
+```python get-pip.py```
+
+Mais informações em http://pythonclub.com.br/instalacao-python-django-windows.html
+
+#### 4. Instalar bibliotecas
+Abra o terminal cnforme descrito na seção 2 e digite:
+```pip install selenium pandas seaborn jupyter matplotlib```
+#### 5. Baixe a engine do selenium 
+Encontre a engine do selenium para seu navegador em https://selenium-python.readthedocs.io/installation.html e realize o download
+
+#### 4. Adicione a engine ao seu path
+Adicione o executável da engine às variáveis do ambiente do seu sistema de maneira análoga à descrita na seção 2.
