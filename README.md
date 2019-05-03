@@ -117,7 +117,7 @@ $ python3 scraping-sefaz.py
 
 #### 2. Análise
 
-Abrir o jupyterEu
+Abrir o jupyter
 
 ```sh
 $ jupyter notebook
@@ -125,4 +125,4 @@ $ jupyter notebook
 
 Abrir o arquivo `Análise.ipynb`
 
-Para rodar as células, SHIFT + ENTER
+Para rodar as células, use o atalho SHIFT + ENTER. 
