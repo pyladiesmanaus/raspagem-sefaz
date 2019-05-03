@@ -1,4 +1,4 @@
-# raspagem-sefaz
+# Raspagem Sefaz
 Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 
 ### Descrição do Repositório
@@ -8,12 +8,37 @@ Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 * scraping-sefaz.py : script de Raspagem
 * output : pasta com arquivos e gráficos de saída
 
+### What's included
+
+Within the download you'll find the following directories and files:
+```
+Raspagem Sefaz
+├── Análise.html
+├── Análise.ipynb
+├── LICENSE
+├── README.md
+├── output
+│   ├── graficos
+│   │   ├── barra-a-pagar.png
+│   │   └── linha-total.png
+│   ├── sefaz-Fonte\ de\ Recurso.csv
+│   ├── sefaz-Função.csv
+│   ├── sefaz-fonte-final.csv
+│   └── sefaz-fonte-total.csv
+├── scraping-sefaz.py
+└── selenium-step-by-step.txt
+```
+
 ## Preparação de ambiente
 
 ### Ubuntu
 1. Instalar python 3
 
 ```sudo apt install python3 python3-pip```
+
+```bash
+sudo apt install python3 python3-pip
+```
 
 2. Instalar bibliotecas
 
