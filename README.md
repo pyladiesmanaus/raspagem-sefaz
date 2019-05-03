@@ -3,14 +3,7 @@ Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 
 ### Descrição do Repositório
 
-Ao realizar o download, você encontrará os seguintes arquivos:
-
-* Análise.html : notebook salvo em html
-* Analise.ipynb : jupyter notebook
-* scraping-sefaz.py : script de Raspagem
-* output : pasta com arquivos e gráficos de saída
-
-Abaixo está a árvore de diretórios para este repositório:
+Ao realizar o download deste repositório, você encontrará a seguinte árvore de arquivos:
 
 ```bash
 Raspagem Sefaz
@@ -30,6 +23,14 @@ Raspagem Sefaz
 └── selenium-step-by-step.txt
 ```
 
+Abaixo está uma descrição dos arquivos mais importantes do repositório:
+
+* Análise.html : notebook de análise de dados salvo em html
+* Analise.ipynb : notebook de análise de dados
+* scraping-sefaz.py : script de Raspagem de Dados 
+* output : pasta com arquivos e gráficos de saída
+
+
 ## Preparação de ambiente
 
 ### Ubuntu
@@ -42,7 +43,8 @@ sudo apt install python3 python3-pip
 2. Instalar bibliotecas
 
 ```bash
-sudo pip3 install selenium pandas seaborn jupyter matplotlib```
+sudo pip3 install selenium pandas seaborn jupyter matplotlib
+```
 
 3. Baixar o driver do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html)
 4. copiar o executável para ```/usr/bin```
@@ -71,14 +73,23 @@ Então você deve adicionar o python às suas variáveis.
 ##### Etapas para adicionar um caminho na variável ambiental PATH do sistema
 
      1. No sistema Windows, clique com o botão direito em Meu Computador ou Este PC.
+
      2. Selecione Propriedades.
+
      3. Selecione configurações avançadas do sistema.
+
      4. Clique no botão Variáveis de Ambiente.
+
      5. Em Variáveis do sistema, selecione PATH.
+
      6. Clique no botão Editar.
+
      7. Clique no botão Novo
+
      8. Cole o caminho do arquivo python.exe -- C:\Python37 e C:\Python37/Scripts, separados por ```;```.
+
      9.Clique OK.
+
 #### 3. Instalar pip
 Para isto, baixe o arquivo em https://bootstrap.pypa.io/get-pip.py
 
@@ -87,7 +98,8 @@ Abra o terminal clicando com o botão direito no espaço vazio da pasta em que o
 Em seguida, execute
 
 ```bash
-python get-pip.py```
+python get-pip.py
+```
 
 Mais informações de instalaçao [aqui](http://pythonclub.com.br/instalacao-python-django-windows.html)
 
@@ -95,7 +107,8 @@ Mais informações de instalaçao [aqui](http://pythonclub.com.br/instalacao-pyt
 Abra o terminal cnforme descrito na seção 2 e digite:
 
 ```bash
-pip install selenium pandas seaborn jupyter matplotlib```
+pip install selenium pandas seaborn jupyter matplotlib
+```
 
 #### 5. Baixe a engine do selenium
 Encontre a engine do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html) e realize o download
@@ -109,14 +122,16 @@ Adicione o executável da engine às variáveis do ambiente do seu sistema de ma
 
 Abrir o terminal na pasta do projeto e executar:
 ```bash
-python3 scraping-sefaz.py```
+python3 scraping-sefaz.py
+```
 
 #### 2. Análise
 
 Abrir o jupyter
 
 ```bash
-jupyter notebook```
+jupyter notebook
+```
 
 Abrir o arquivo Análise.ipynb
 
