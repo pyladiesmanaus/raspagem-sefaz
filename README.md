@@ -3,31 +3,32 @@ Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 
 ### Descrição do Repositório
 
-* Análise.html : notebook salvo em html
-* Analise.ipynb : jupyter notebook
-* scraping-sefaz.py : script de Raspagem
-* output : pasta com arquivos e gráficos de saída
+Ao realizar o download deste repositório, você encontrará a seguinte árvore de arquivos:
 
-### What's included
-
-Within the download you'll find the following directories and files:
-```sh
+```bash
 Raspagem Sefaz
 ├── Análise.html
 ├── Análise.ipynb
 ├── LICENSE
 ├── README.md
 ├── output
-│   ├── graficos
-│   │   ├── barra-a-pagar.png
-│   │   └── linha-total.png
-│   ├── sefaz-Fonte\ de\ Recurso.csv
-│   ├── sefaz-Função.csv
-│   ├── sefaz-fonte-final.csv
-│   └── sefaz-fonte-total.csv
+│   ├── graficos
+│   │   ├── barra-a-pagar.png
+│   │   └── linha-total.png
+│   ├── sefaz-Fonte de Recurso.csv
+│   ├── sefaz-Função.csv
+│   ├── sefaz-fonte-final.csv
+│   └── sefaz-fonte-total.csv
 ├── scraping-sefaz.py
 └── selenium-step-by-step.txt
 ```
+
+Abaixo está uma descrição dos arquivos mais importantes do repositório:
+
+* Análise.html : notebook de análise de dados salvo em html
+* Analise.ipynb : notebook de análise de dados
+* scraping-sefaz.py : script de Raspagem de Dados
+* output : pasta com arquivos e gráficos de saída
 
 ## Preparação de ambiente
 
@@ -41,7 +42,7 @@ $ sudo apt install python3 python3-pip
 2. Instalar bibliotecas
 
 ```sh
-$ sudo pip3 install selenium pandas seaborn jupyter matplotlib
+$ sudo pip3 install -r requirements.txt
 ```
 
 3. Baixar o driver do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html)
@@ -116,7 +117,7 @@ $ python3 scraping-sefaz.py
 
 #### 2. Análise
 
-Abrir o jupyter
+Abrir o jupyterEu
 
 ```sh
 $ jupyter notebook
