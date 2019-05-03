@@ -43,7 +43,7 @@ sudo apt install python3 python3-pip
 2. Instalar bibliotecas
 
 ```bash
-sudo pip3 install selenium pandas seaborn jupyter matplotlib
+sudo pip3 install -r requirements.txt
 ```
 
 3. Baixar o driver do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html)
