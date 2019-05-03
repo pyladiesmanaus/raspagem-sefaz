@@ -1,5 +1,5 @@
 # Raspagem Sefaz
-Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
+Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM, utilizando Python 3, Selenium e pandas.
 
 ### Descrição do Repositório
 
