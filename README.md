@@ -3,15 +3,16 @@ Repositório de Raspagem de dados de despesas expostas no site da Sefaz-AM
 
 ### Descrição do Repositório
 
+Ao realizar o download, você encontrará os seguintes arquivos:
+
 * Análise.html : notebook salvo em html
 * Analise.ipynb : jupyter notebook
 * scraping-sefaz.py : script de Raspagem
 * output : pasta com arquivos e gráficos de saída
 
-### What's included
+Abaixo está a árvore de diretórios para este repositório:
 
-Within the download you'll find the following directories and files:
-```
+```bash
 Raspagem Sefaz
 ├── Análise.html
 ├── Análise.ipynb
@@ -21,7 +22,7 @@ Raspagem Sefaz
 │   ├── graficos
 │   │   ├── barra-a-pagar.png
 │   │   └── linha-total.png
-│   ├── sefaz-Fonte\ de\ Recurso.csv
+│   ├── sefaz-Fonte de Recurso.csv
 │   ├── sefaz-Função.csv
 │   ├── sefaz-fonte-final.csv
 │   └── sefaz-fonte-total.csv
@@ -34,15 +35,15 @@ Raspagem Sefaz
 ### Ubuntu
 1. Instalar python 3
 
-```sudo apt install python3 python3-pip```
-
 ```bash
 sudo apt install python3 python3-pip
 ```
 
 2. Instalar bibliotecas
 
-```sudo pip3 install selenium pandas seaborn jupyter matplotlib```
+```bash
+sudo pip3 install selenium pandas seaborn jupyter matplotlib```
+
 3. Baixar o driver do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html)
 4. copiar o executável para ```/usr/bin```
 
@@ -85,14 +86,16 @@ Abra o terminal clicando com o botão direito no espaço vazio da pasta em que o
 
 Em seguida, execute
 
-```python get-pip.py```
+```bash
+python get-pip.py```
 
 Mais informações de instalaçao [aqui](http://pythonclub.com.br/instalacao-python-django-windows.html)
 
 #### 4. Instalar bibliotecas
 Abra o terminal cnforme descrito na seção 2 e digite:
 
-```pip install selenium pandas seaborn jupyter matplotlib```
+```bash
+pip install selenium pandas seaborn jupyter matplotlib```
 
 #### 5. Baixe a engine do selenium
 Encontre a engine do selenium para seu navegador [aqui](https://selenium-python.readthedocs.io/installation.html) e realize o download
@@ -105,13 +108,15 @@ Adicione o executável da engine às variáveis do ambiente do seu sistema de ma
 #### 1. Rodar o arquivo scraping-sefaz.py
 
 Abrir o terminal na pasta do projeto e executar:
-```python3 scraping-sefaz.py```
+```bash
+python3 scraping-sefaz.py```
 
 #### 2. Análise
 
 Abrir o jupyter
 
-```jupyter notebook```
+```bash
+jupyter notebook```
 
 Abrir o arquivo Análise.ipynb
 
