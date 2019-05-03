@@ -96,7 +96,7 @@ Mais informações de instalaçao [aqui](http://pythonclub.com.br/instalacao-pyt
 Abra o terminal cnforme descrito na seção 2 e digite:
 
 ```sh
-$ pip install selenium pandas seaborn jupyter matplotlib
+$ pip install -r requirements.txt
 ```
 
 #### 5. Baixe a engine do selenium
